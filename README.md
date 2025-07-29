@@ -13,9 +13,7 @@ A beginner-friendly network scanning and vulnerability detection project built o
 
 ---
 
-## Output Files
-
-- 📄 [netdiscover.txt](netdiscover.txt) – List of active hosts and MAC addresses  
+## Output Files 
 - 📄 [nmap_scan.txt](nmap_scan.txt) – Open ports, services, OS info  
 - 📄 [nikto_report.txt](nikto_report.txt) – Web server vulnerability scan  
  
@@ -62,7 +60,6 @@ nikto -h http://192.168.x.x > nikto_report.txt
 
 ```
 network-scanning-kali/
-├── netdiscover.txt
 ├── nmap_scan.txt
 ├── nikto_report.txt
 ├── README.md
