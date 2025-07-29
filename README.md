@@ -24,13 +24,13 @@ A beginner-friendly network scanning and vulnerability detection project built o
 ## 🖼️ Screenshots
 
 ### 🛰️ Netdiscover Output  
-![Netdiscover Screenshot](screenshots/netdiscover_screenshot.jpg)
+![Netdiscover Screenshot](screenshots/netdiscover_screenshot.JPG)
 
 ### 🌐 Nmap Scan Results  
-![Nmap Screenshot](screenshots/nmap_screenshot.jpg)
+![Nmap Screenshot](screenshots/nmap_screenshot.JPG)
 
 ### 🔐 Nikto Vulnerability Report  
-![Nikto Screenshot](screenshots/nikto_screenshot.jpg)
+![Nikto Screenshot](screenshots/nikto_screenshot.JPG)
 
 ---
 
