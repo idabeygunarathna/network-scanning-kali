@@ -13,12 +13,12 @@ A beginner-friendly network scanning and vulnerability detection project built o
 
 ---
 
-## 📁 Output Files
+## Output Files
 
-- 📄 `netdiscover.txt` – List of active hosts and MAC addresses  
-- 📄 `nmap_scan.txt` – Open ports, services, OS info  
-- 📄 `nikto_report.txt` – Web server vulnerability scan  
-
+- 📄 [netdiscover.txt](netdiscover.txt) – List of active hosts and MAC addresses  
+- 📄 [nmap_scan.txt](nmap_scan.txt) – Open ports, services, OS info  
+- 📄 [nikto_report.txt](nikto_report.txt) – Web server vulnerability scan  
+ 
 ---
 
 ## 🖼️ Screenshots
